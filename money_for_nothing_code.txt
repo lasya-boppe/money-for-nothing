@@ -1,0 +1,96 @@
+\documentclass{beamer}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usetheme{Rochester}
+
+\title{\textbf{ \huge MONEY FOR NOTHING}}
+\author{ 
+\\Eekshitha katta : 21B01A5450 : AIDS \\
+\\Lasya Priya Boppe : 21B01A6116 : AIML\\
+\\Mounika Chalapati : 21B01A0309 : MECH \\
+\\ Gowthami Seelam : 21B01A0499 : ECE\\
+\\Lakshmi Niveditha Dendukuri : 21B01A5427 : AIDS\\}
+\institute{\Large SVECW}
+\date{February 4,2023}
+
+\begin{document}
+\begin{frame}
+  \titlepage
+ \end{frame}
+\section{python}
+\begin{frame}{\Huge Introduction about the project} 
+\begin{itemize}
+\Large
+\item We are  middle person in a widget market. Due to some fair competition laws, we can sign a contract with only one producer company and only one consumer company. So the task is we need to trade the widgets between producer and consumer companies with max profit.\\
+\end{itemize}
+\end{frame}
+\section{Money for \Latex{} }
+\subsection{Tables and Figures}
+\begin{frame}{\Huge Approach}
+\begin{itemize}
+
+
+
+\Large
+\item Contemplated the problem statement.
+\item Pinpointed possible causes.
+\item Brainstormed options to solve the problem.
+ \item Adopted an option.
+ \item Developed an implementation plan.
+ \item Executed the plan and monitored the results.
+ \item Evaluated the solution.\\
+\end{itemize}
+\end{frame}
+\begin{frame}{\Huge Learnings}
+\begin{itemize}
+\Large
+\item We learnt about how to declare multiple line inputs using command line .
+\item List comprehensions.
+\item Working with functions-map(),zip() \\
+\end{itemize}
+\end{frame}
+
+\begin{frame}{\Huge Challenges}
+\begin{itemize}
+\Large
+   \item We faced challenges while dealing with the multiple line inputs in command line arguments.
+  \item  While dealing with the gitlab.
+  \item While optimizing the number of lines in the code.\\
+\end{itemize}
+\end{frame}
+ \begin{frame}{\Huge Statistics}
+ \begin{itemize} 
+ 
+ \Large
+  \item  The Python code has overall 18 lines.\\
+   \item The code has 2 user defined functions.\\They are:\\
+   \hspace{0.8cm}1. take-inputs()\\
+   \hspace{0.8cm}2. money-for-nothing()\\
+  \end{itemize} 
+\end{frame}
+\begin{frame}{\Huge Code}
+\begin{figure}[htp]
+  \flushleft\includegraphics[width=11.5cm]{code.png}
+  \caption{Code of the project}
+  \label{fig.code1}
+  \end{figure}
+  \end{frame}   
+\begin{frame}{\Huge Output}
+\begin{figure}[htp]
+  \centering
+  \includegraphics[width=8cm]{output.png}
+   \caption{Output  of the project}
+   \label{fig:code2}
+   \end{figure}
+
+    
+\end{frame}
+\begin{frame}{}
+\centering
+\textbf{\Huge Thank You}
+    
+\end{frame}
+
+\end{document}
